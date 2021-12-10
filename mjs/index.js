@@ -7,5 +7,3 @@ function foo() {
 }
 
 export default foo;
-
-// foo();
